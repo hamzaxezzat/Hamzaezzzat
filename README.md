@@ -20,7 +20,7 @@
 
 -   🤝 I’m looking for help with **frontend opportunity**
 
--   👨‍💻 All of my projects are available at [https://www.hamzaezzat.com](hamzaezzat.com)
+-   👨‍💻 All of my projects are available at [hamzaezzat.com](https://www.hamzaezzat.com)
 
 -   💬 Ask me about **Frontend & Graphics**
 
